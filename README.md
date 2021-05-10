@@ -2,8 +2,8 @@
 
 ✨ Passionate about software development and innovation, always looking to learn and being part of the communities to keep me informed. Invest in people, trust their talents, continuous improvement, keys to success and growth of companies.
 
-<JS Dev> Javascript, ReactJs ans NextJs, NodeJs, and HTML / CSS Other knowledge C# with dotnet core 5.0 Databases: SQL Server and NoSQL Mongo DB 
-🌱 I’m currently learning Python and Flutter.
+<JS Dev> Javascript, ReactJs ans NextJs, ReactNative, NodeJs, and HTML / CSS Other knowledge C# with dotnet core 5.0 Databases: SQL Server and NoSQL Mongo DB 
+🌱 I’m currently learning Python.
 
 <!--
 **mrcMesen/mrcMesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

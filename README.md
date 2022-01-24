@@ -1,9 +1,23 @@
 ### Hi there 👋
 
-✨ Passionate about software development and innovation, always looking to learn and being part of the communities to keep me informed. Invest in people, trust their talents, continuous improvement, keys to success and growth of companies.
+✨ Passionate about software development 👨‍💻 Geek
+🚀 I enjoy building innovative apps
+🌱 I love learning and teaching
 
-<JS Dev> Javascript, ReactJs ans NextJs, ReactNative, NodeJs, and HTML / CSS Other knowledge C# with dotnet core 5.0 Databases: SQL Server and NoSQL Mongo DB 
-🌱 I’m currently learning Python.
+[JS Dev] Focus on ReactJs and NextJs, React-Native, NodeJs.
+  
+- 💬 Ask me about my best projects.
+- 😄 Take a look of this: [marcomesen.com](https://marcomesen.com/)
+- 📫 marco.mesenc@hotmail.com
+  
+#### What makes me stand out?
+
+- ✅ Always help and support the team.
+- ✅ I empower myself when I lead projects
+- ✅ Good comunications skills
+- ✅ Adaptation and learning skills
+- ✅ I'm part of development communities - [React-CostaRica].
+
 
 <!--
 **mrcMesen/mrcMesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

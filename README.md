@@ -4,7 +4,8 @@
 🚀 I enjoy building innovative apps
 🌱 I love learning and teaching
 
-[JS Dev] Focus on ReactJs and NextJs, React-Native, NodeJs.
+[JS] Focus on ReactJs and NextJs, React-Native, NodeJs.
+[GO] In progress - BE Services 
   
 - 💬 Ask me about my best projects.
 - 😄 Take a look of this: [marcomesen.com](https://marcomesen.com/)
@@ -16,7 +17,6 @@
 - ✅ I empower myself when I lead projects
 - ✅ Good comunications skills
 - ✅ Adaptation and learning skills
-- ✅ I'm part of development communities - [React-CostaRica].
 
 
 <!--

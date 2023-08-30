@@ -5,7 +5,7 @@
 🌱 I love learning and teaching
 
 [JS] Focus on ReactJs and NextJs, React-Native, NodeJs.
-[GO] In progress - BE Services 
+[Python] In progress - BE Services 
   
 - 💬 Ask me about my best projects.
 - 😄 Take a look of this: [marcomesen.com](https://marcomesen.com/)

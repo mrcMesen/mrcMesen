@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-✨ Passionate about software development 👨‍💻 Geek
+✨ Full Stack Developer with strong leadership skills and hands-on experience designing, architecting,
+and delivering end-to-end software solutions including architecture design. I’m passionate about
+building scalable, high-quality products and creating strong, collaborative team environments. I
+continuously seek growth, welcome feedback, and always aim to raise the bar — both in code and in
+communication 👨‍💻 Geek
+
 🚀 I enjoy building innovative apps
 🌱 I love learning and teaching
 
-[JS] Focus on ReactJs and NextJs, React-Native, NodeJs.
-[Python] In progress - BE Services 
+[JS/TS] Focus on ReactJs and NextJs, React-Native, NodeJs.
+[Python] Backend with FastAPI or DJango
   
 - 💬 Ask me about my best projects.
 - 😄 Take a look of this: [marcomesen.com](https://marcomesen.com/)
